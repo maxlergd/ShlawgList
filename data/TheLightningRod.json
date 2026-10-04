@@ -1,16 +1,9 @@
 {
-    "id": 93917076,
+    "id": "93917076",
     "name": "The Lightning Rod",
     "author": "Lavatrex",
     "creators": ["Lavatrex"],
     "verifier": "nilscoeuk",
     "verification": "",
-    "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 100,
-            "hz":
-        }
-    ]
+    "records": []
 }
